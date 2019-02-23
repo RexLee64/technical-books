@@ -2,7 +2,7 @@
 
 > 读书并不在多，最重要的是选得精，读得彻底。
 
-分享常用的技术书籍，内容主要涉及自然语言处理，机器学习，深度学习，算法，编程及数学等，并将持续更新。
+分享常用的技术书籍，都是同类书籍中值得推荐的，内容主要涉及自然语言处理，机器学习，深度学习，算法，编程及数学等，并将持续更新。
 
 Welcome to watch, star or fork.
 
@@ -12,7 +12,7 @@ Welcome to watch, star or fork.
     <img src="./img/Mining Text Data_Charu C. Aggarwal&Chengxiang Zhai.jpg" height="240px"/>
 </div>
 
-<center>Mining Text Data</center>
+<p align="center">Mining Text Data</p>
 
 ## [机器学习（Machine Learning）](https://github.com/lemonhu/technical-books/tree/master/machine_learning)
 
@@ -21,7 +21,7 @@ Welcome to watch, star or fork.
     <img src="./img/统计学习方法_李航.jpg" height="240px"/>
 </div>
 
-<center>　　机器学习　　　　　　　统计学习方法</center>
+<p align="center">　　机器学习　　　　　　　统计学习方法</p>
 
 ## [深度学习（Deep Learning）](https://github.com/lemonhu/technical-books/tree/master/deep_learning)
 
@@ -29,15 +29,15 @@ Welcome to watch, star or fork.
     <img src="./img/深度学习_Ian Goodfellow&Yoshua Bengio&Aaron Courville著_赵申剑&黎彧君等译.jpg" height="240px"/>
 </div>
 
-<center>深度学习</center>
+<p align="center">深度学习</p>
 
-## [算法（Algorithm）](https://github.com/lemonhu/technical-books/tree/master/algorithm)
+## [算法（Algorithm）]()
 
 <div align="center">
     <img src="./img/算法图解_Aditya Bhargava著_袁国忠译.jpg" height="240px"/>
 </div>
 
-<center>算法图解</center>
+<p align="center">算法图解</p>
 
 ## [数学（Mathematics）](https://github.com/lemonhu/technical-books/tree/master/mathematics)
 
@@ -45,4 +45,4 @@ Welcome to watch, star or fork.
     <img src="./img/数学之美（第二版）_吴军.jpg" height="240px"/>
 </div>
 
-<center>数学之美（第二版）</center>
+<p align="center">数学之美（第二版）</p>
