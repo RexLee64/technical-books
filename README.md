@@ -27,9 +27,9 @@ Welcome to watch, star or fork.
 
 <div align="center">
     <img src="./img/深度学习_Ian Goodfellow&Yoshua Bengio&Aaron Courville著_赵申剑&黎彧君等译.jpg" height="240px"/>
+    <img src="./img/神经网络与深度学习_邱锡鹏.jpg" height="240px"/>
 </div>
-
-<p align="center">深度学习</p>
+<p align="center">　　深度学习　　　　   神经网络与深度学习</p>
 
 ## [算法（Algorithm）](https://github.com/lemonhu/technical-books/tree/master/algorithm)
 
